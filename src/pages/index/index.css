@@ -1,0 +1,26 @@
+.content {
+    background: linear-gradient(180deg, rgba(98, 106, 136, 0.1) 0%, rgba(46, 49, 73, 0.1) 107.43%),
+    linear-gradient(180deg, rgba(236, 240, 255, 0.1) 0%, rgba(46, 49, 73, 0) 107.43%);
+    padding: 1rem;
+}
+
+.coin.wrap {
+    background-image: url("../../assets/svg/smallBorder.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.item {
+    background-image: url("../../assets/svg/border.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 2rem;
+}
+
+
+.wrap {
+    position: relative;
+    padding: 1px;
+
+}
